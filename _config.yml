@@ -2,8 +2,8 @@
 title:               Jeong Hyunho
 tagline:             ''
 description:         'A collection of notes.<br>Made by <a href="https://twitter.com/jeong_hyunho" target="_blank">@hyunho_jeong</a>.'
-url:                 https://github.com/JeongHyunho/JeongHyunho.github.io
-baseurl:             '/'
+url:                 https://jeonghyunho.github.io
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 

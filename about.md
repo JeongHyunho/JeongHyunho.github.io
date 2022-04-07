@@ -1,29 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm a PhD student in the department of Mechanical Engineering
+Korea Advanced Institute of Science and Technology.
+My interests are Reinforcement learning and Biomechanics,
+especially for a powered exoskeleton.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+한국과학기술원 기계공학과에서 박사과정 학생입니다.
+강화학습과 생체역학에 관심이 많으며, 동력 외골격 제어에 활용하기 위해 여러 방면을 공부하고 있습니다.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Contact: [hyunho.jeong@kaist.ac.kr](hyunho.jeong@kaist.ac.kr)

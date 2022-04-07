@@ -3,6 +3,7 @@ _gh_pages
 _site
 .ruby-version
 .jekyll-cache
+.idea
 
 # Numerous always-ignore extensions
 *.diff
